@@ -69,7 +69,7 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 The code used to create and train the Agent
 
 1. Navigation.ipynb
-2. double_dqn_agent.py
+2. dqn_agent.py
 3. model.py
 
 A file describing all the packages required to set up the environment
@@ -78,9 +78,9 @@ A file describing all the packages required to set up the environment
 
 The trained model
 
-5. checkpoint.pth
+5. Several checkpoint files
 
-A Report.md file describing the development process and the learning algorithm, along with ideas for future work
+A Project-Report.pdf file describing the development process and the learning algorithm, along with ideas for future work
 
 6. README.md file
 
