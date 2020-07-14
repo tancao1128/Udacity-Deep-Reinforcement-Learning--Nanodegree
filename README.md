@@ -71,17 +71,10 @@ The code used to create and train the Agent
 1. Navigation.ipynb
 2. dqn_agent.py
 3. model.py
-
-A file describing all the packages required to set up the environment
-
 4. environment.yml
-
-The trained model
-
-5. Several checkpoint files
-
-A Project-Report.pdf file describing the development process and the learning algorithm, along with ideas for future work
-
-6. README.md file
+5. Several checkpoint files (Trained models)
+6. A Project-Report.pdf 
+(This file describes the development process and the learning algorithm, along with ideas for future work.)
+7. README.md 
 
 Note: Please [click here](https://www.dropbox.com/s/0tor0ez9alyqyvs/final%20agent.mp4?dl=0) for the video showing the performance of the smart agent after training.
